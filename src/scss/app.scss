@@ -1,0 +1,6 @@
+/* Forma anterior de importar archivo desde base
+@import 'base/variables';
+@import 'contenido/contenido'; */
+
+@use 'base';
+@use 'layout';
